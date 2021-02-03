@@ -1,0 +1,1 @@
+<h1><?php echo ( !empty( $_GET['msg'] ) )? $_GET['msg'] : "unauthenticated"; ?></h1>
